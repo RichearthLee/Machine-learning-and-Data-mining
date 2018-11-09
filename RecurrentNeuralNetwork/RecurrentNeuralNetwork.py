@@ -1,2 +1,2 @@
-print("RNN");
-
+print("RNN")
+print("test")
